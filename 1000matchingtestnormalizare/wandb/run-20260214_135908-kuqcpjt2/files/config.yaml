@@ -1,0 +1,49 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            bedsf2lmn98f73xb0uj688wg6nsdqhl6:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 8
+                    memoryGb: 16
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "10737418240"
+                codePath: simulation.py
+                codePathLocal: simulation.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "293781319680"
+                email: ecaterina@stefanescu.eu
+                executable: /Applications/Xcode.app/Contents/Developer/usr/bin/python3
+                host: Ecaterinas-iMac.local
+                memory:
+                    total: "17179869184"
+                os: macOS-14.2.1-arm64-arm-64bit
+                program: /Users/ecaterina/Documents/hashgridmiau/simulation.py
+                python: CPython 3.9.6
+                root: /Users/ecaterina/Documents/hashgridmiau
+                startedAt: "2026-02-14T11:59:08.390111Z"
+                writerId: bedsf2lmn98f73xb0uj688wg6nsdqhl6
+        m: []
+        python_version: 3.9.6
+        t:
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.9.6
+            "5": 0.25.0
+            "12": 0.25.0
+            "13": darwin-arm64
+agg_window:
+    value: 10
+nodes:
+    value: 100
+vector_size:
+    value: 10

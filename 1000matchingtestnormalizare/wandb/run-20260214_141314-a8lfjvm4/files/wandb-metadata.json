@@ -1,0 +1,33 @@
+{
+  "os": "macOS-14.2.1-arm64-arm-64bit",
+  "python": "CPython 3.9.6",
+  "startedAt": "2026-02-14T12:13:14.455929Z",
+  "program": "/Users/ecaterina/Documents/hashgridmiau/simulation.py",
+  "codePath": "simulation.py",
+  "codePathLocal": "simulation.py",
+  "email": "ecaterina@stefanescu.eu",
+  "root": "/Users/ecaterina/Documents/hashgridmiau",
+  "host": "Ecaterinas-iMac.local",
+  "executable": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "293790973952"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 16,
+    "swapTotalBytes": "10737418240",
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "nhsjmljl9ppslrc4joa7rcys58z219au"
+}
